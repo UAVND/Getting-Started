@@ -67,8 +67,12 @@ There is also a getting-started slack channel for questions related to ubuntu, d
 
 Additonal resources to be used for ROS, Ardupilot, and SITL practice:
 
-The following links lead to a few tutorials and projects that use software in a similar way to UAVND. Working on any of these projects might be a fun way to practice.
+JPL's curiousity rover in gazebo
+https://discourse.ros.org/t/the-nasa-curiosity-rover-rosject-is-now-open-source/7635
 
+List of open source gazebo projects: Warning not all use ROS Noetic so make sure to check before trying to install any of these 
+https://awesomeopensource.com/projects/gazebo
+	
 
 
 
